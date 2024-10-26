@@ -4,7 +4,7 @@ Generate a tiny Ubuntu image using Dockerfile that which relies on Ubuntu to cre
 It demonstrates the power of multi-stage build in Docker which is able to reduce the image size to few Megabyes.
 
 ## Developed Using:
-[Docker](https://www.docker.com/)
+[Docker](https://www.docker.com/) \
 [Ubuntu Image](https://ubuntu.com/)
 
 ## Dependencies:
